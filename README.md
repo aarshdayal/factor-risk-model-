@@ -35,9 +35,9 @@ All data is publicly available and free.
    - Total volatility = √(systematic + specific) annualised
 
 ## Results
-- **Factor volatilities**: The chart above shows how the volatility of each factor fluctuates over time.
+- **Factor volatilities**: The chart in the code shows how the volatility of each factor fluctuates over time.
 - **Portfolio betas**: The portfolio’s exposures to the factors evolve (see notebook).
-- **Risk decomposition**: On average, systematic risk accounts for ~X% of total risk, while idiosyncratic risk makes up ~Y%. This fraction varies over market conditions.
+- **Risk decomposition**: On average, systematic risk accounts for ~98.2% of total risk, while idiosyncratic risk makes up ~1.8%. This fraction varies over market conditions.
 
 *(Include a few key plots from your notebook in the `reports/` folder and embed them here.)*
 
